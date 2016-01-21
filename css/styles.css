@@ -1,0 +1,57 @@
+﻿* {
+	margin:0;
+	padding:0;
+	outline:0;
+	border:0;
+}
+html, body {
+	background:#fff;
+	color:#;
+	font:;
+}
+
+a {
+	color:#fff;
+	text-decoration:underline;
+	font:;
+}
+a:hover	{	text-decoration:none;	}
+
+h1 {
+
+}
+
+div	{	position:relative;	}
+.clear {
+	clear:both;
+	height:0px;
+}
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+input:focus:-moz-placeholder {
+  color:transparent!important;
+}
+input:focus:-ms-input-placeholder {
+  color:transparent!important;
+}
+input:focus::-webkit-input-placeholder {
+  color:transparent!important;
+}
+/*****************main****************/
+
+
+
+
+
+
+/**************end-main***************/
